@@ -1,0 +1,6 @@
+[submodule "XQLI"]
+	path = XQLi
+	url = https://github.com/Az3z3l/XQLi
+[submodule "Spongebob's Secret"]
+	path = Spongebob's Secret
+	url = https://github.com/Az3z3l/Spongebobs-Secret
