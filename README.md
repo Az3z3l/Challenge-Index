@@ -1,2 +1,2 @@
 # Challenge-Index
-A list of CTF challenge made by me
+A list of CTF challenges made by me
