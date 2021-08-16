@@ -1,15 +1,15 @@
-[submodule "Notepad 1 - Snakehole's Secret"]
-	path = Notepad1-Snakeholes_Secret
-	url = https://github.com/Az3z3l/Notepad1-Snakeholes_Secret
-[submodule "Notepad 1.5 - Arthur's Article"]
-	path = Notepad1.5-Arthurs_Article
-	url = https://github.com/Az3z3l/Notepad1.5-Arthurs_Article
-[submodule "Notepad 2 - Ken's Chronicle"]
-	path = Notepad2-Kens_Chronicle	
-	url = https://github.com/Az3z3l/Notepad2-Kens_Chronicle	
 [submodule "XQLi"]
 	path = XQLi
 	url = https://github.com/Az3z3l/XQLi
 [submodule "Spongebobs-Secret"]
 	path = Spongebobs-Secret
 	url = https://github.com/Az3z3l/Spongebobs-Secret
+[submodule "Notepad1-Snakeholes_Secret"]
+	path = Notepad1-Snakeholes_Secret
+	url = https://github.com/Az3z3l/Notepad1-Snakeholes_Secret
+[submodule "Notepad1.5-Arthurs_Article"]
+	path = Notepad1.5-Arthurs_Article
+	url = https://github.com/Az3z3l/Notepad1.5-Arthurs_Article
+[submodule "Notepad2-Kens_Chronicle"]
+	path = Notepad2-Kens_Chronicle
+	url = https://github.com/Az3z3l/Notepad2-Kens_Chronicle
